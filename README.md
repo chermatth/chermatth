@@ -5,8 +5,8 @@
 </div>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=chermatth&show_icons=true&count_private=true&hide_border=true&title_color=3d6151&icon_color=3d6151&text_color=616161&bg_color=0d1117" alt="Matthieu Cherbonnier github stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chermatth&layout=compact&hide_border=true&title_color=3d6151&text_color=616161&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=chermatth&show_icons=true&count_private=true&hide_border=true&title_color=E65C19&icon_color=E65C19&text_color=616161&bg_color=0d1117" alt="Matthieu Cherbonnier github stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chermatth&layout=compact&hide_border=true&title_color=E65C19&text_color=616161&bg_color=0d1117" />
 </div>
 
 ##
