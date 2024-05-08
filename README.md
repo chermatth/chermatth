@@ -1,13 +1,3 @@
-<style>
-  :root {
-    --cor: #E65C19;
-  }
-  
-  img {
-    border-radius: 30px;
-  }
-</style>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=150&color=E65C19&text=bem-vindo&section=header&reversal=false&textBg=false&animation=fadeIn&descSize=20&descAlign=50&descAlignY=30&fontSize=30&fontColor=0d1117"/>
 
 <div align="center">
@@ -46,13 +36,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/chermatth/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn">
   </a>
   <a href="https://discord.gg/matthcher" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" title="Discord">
   </a>
   <a href="mailto:chermatth@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="E-mail">
   </a>
 </div>
 </div>
