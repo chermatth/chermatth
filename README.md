@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=chermatth&theme=transparent&hide_border=true&locale=pt_BR&mode=weekly" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=chermatth&theme=dark&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&mode=weekly" alt="GitHub Streak" /></a>
 </div>
 
 <div align="center" style="display: inline_block"><br>
