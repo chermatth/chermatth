@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3d6151&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Matthieu&section=header&reversal=false&textBg=false&animation=fadeIn&descSize=0"/>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=chermatth&show_icons=true&count_private=true&hide_border=true&title_color=3d6151&icon_color=3d6151&text_color=616161&bg_color=0d1117" alt="Matthieu Cherbonnier github stats" /> 
