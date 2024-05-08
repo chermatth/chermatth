@@ -1,8 +1,8 @@
-[<img width=100% src="[https://capsule-render.vercel.app/api?type=waving&color=3d6151&height=120&section=header](https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Matthieu&section=header&reversal=false&textBg=false&animation=fadeIn&descSize=0)"/>]
+<img width=100% src="[https://capsule-render.vercel.app/api?type=waving&color=3d6151&height=120&section=header](https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Matthieu&section=header&reversal=false&textBg=false&animation=fadeIn&descSize=0)"/>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eliijahmei&show_icons=true&count_private=true&hide_border=true&title_color=3d6151&icon_color=3d6151&text_color=616161&bg_color=0d1117" alt="Melissa Gouveia github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliijahmei&layout=compact&hide_border=true&title_color=3d6151&text_color=616161&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=chermatth&show_icons=true&count_private=true&hide_border=true&title_color=3d6151&icon_color=3d6151&text_color=616161&bg_color=0d1117" alt="Matthieu Cherbonnier github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chermatth&layout=compact&hide_border=true&title_color=3d6151&text_color=616161&bg_color=0d1117" />
 </div>
 
 ##
@@ -14,10 +14,10 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{eliijahmei}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{chermatth}/count.svg" /></p> 
 <br>
 </div>
 
 <div align="center"> 
-<a href="https://www.linkedin.com/in/melissa-gouveia-b0727026a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B%2F7t86uzXQhq35oNCbjY5cQ%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/chermatth/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>       
