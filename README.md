@@ -35,7 +35,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/chermatth/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"></a>
-  <a href="https://discord.gg/matthcher" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" title="Discord"></a>
-  <a href="mailto:chermatth@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="E-mail"></a>
+  <a href="https://www.linkedin.com/in/chermatth/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"></a>
+  <a href="https://discord.gg/matthcher"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" title="Discord"></a>
+  <a href="mailto:chermatth@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="E-mail"></a>
 </div>
