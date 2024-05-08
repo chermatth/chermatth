@@ -11,7 +11,9 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chermatth&layout=compact&hide_border=true&title_color=E65C19&text_color=616161&bg_color=0d1117" />
 </div>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=chermatth&theme=dark&hide_border=true&locale=pt_BR&mode=weekly" alt="GitHub Streak" /></a>
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=chermatth&theme=transparent&hide_border=true&locale=pt_BR&mode=weekly" alt="GitHub Streak" /></a>
+</div>
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" title="HTML5" height="30 "width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
