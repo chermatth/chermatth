@@ -1,6 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=150&color=E65C19&text=bem-vindo&section=header&reversal=false&textBg=false&animation=fadeIn&descSize=20&descAlign=50&descAlignY=30&fontSize=30"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=150&color=E65C19&text=bem-vindo&section=header&reversal=false&textBg=false&animation=fadeIn&descSize=20&descAlign=50&descAlignY=30&fontSize=30&fontColor=0d1117"/>
 
+<div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&pause=1000&color=E65C19&random=false&width=450&lines=Desenvolvimento+de+Software+Multiplataforma;%5B3%2F6%5D" alt="Typing SVG" /></a>
+</div>
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=chermatth&show_icons=true&count_private=true&hide_border=true&title_color=3d6151&icon_color=3d6151&text_color=616161&bg_color=0d1117" alt="Matthieu Cherbonnier github stats" />
