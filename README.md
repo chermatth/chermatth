@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=150&color=E65C19&text=bem-vindo&section=header&reversal=false&textBg=false&animation=fadeIn&descSize=20&descAlign=50&descAlignY=30&fontSize=30&fontColor=0d1117"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&pause=1000&color=E65C19&random=false&width=450&lines=Desenvolvimento+de+Software+Multiplataforma;%5B3%2F6%5D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=3000&color=E65C19&center=true&vCenter=true&random=false&width=600&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Matthieu+Cherbonnier;Sou+T%C3%A9cnico+em+Inform%C3%A1tica;Estudante+de+programa%C3%A7%C3%A3o;Desenvolvimento+de+Software+Multiplataforma;(3%2F6)" alt="Typing SVG" /></a><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=3000&color=E65C19&center=true&vCenter=true&random=false&width=600&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Matthieu+Cherbonnier;Sou+T%C3%A9cnico+em+Inform%C3%A1tica;Estudante+de+programa%C3%A7%C3%A3o;Desenvolvimento+de+Software+Multiplataforma;(3%2F6)" alt="Typing SVG" />
 </div>
 
 ##
