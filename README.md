@@ -12,17 +12,22 @@
 </div>
 
 <div align="center" style="display: inline_block"><br>
+  ●
+  Front-end:
   <img align="center" title="HTML5" height="30 "width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
   <img align="center" title="CSS" height="30 "width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
   <img align="center" title="JavaScript" height="30 "width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-  ●
+  ㅤㅤ●
+  Back-end:
   <img align="center" title="PHP" height="30 "width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
   <img align="center" title="Python" height="30 "width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   <img align="center" title="C++" height="30 "width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg"/>
   <img align="center" title="C Sharp" height="30 "width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg"/>
-  ●
+  ㅤㅤ●
+  Framework:
   <img align="center" title="Bulma" height="30 "width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bulma/bulma-plain.svg"/>
-  ●
+  ㅤㅤ●
+  Software:
   <img align="center" title="Figma" height="30 "width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
 </div>
 
