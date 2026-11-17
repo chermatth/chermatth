@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="230" viewBox="0 0 840 230" fill="none">
+<defs>
+<clipPath id="card"><rect x="0.5" y="0.5" width="839" height="229" rx="12"/></clipPath>
+<filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="4"/></filter>
+<pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#21262d"/></pattern>
+</defs>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}
+.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+
+</style>
+<rect x="0.5" y="0.5" width="839" height="229" rx="12" fill="#0d1117" stroke="#30363d"/>
+<g clip-path="url(#card)">
+
+<rect x="0" y="0" width="270" height="230" fill="url(#dots)"/>
+<path d="M53.4,115.0 A100,100 0 0 1 226.6,115.0" stroke="#21262d" stroke-width="1.5" stroke-dasharray="3 6"/>
+<g>
+  <animateMotion dur="8s" repeatCount="indefinite" path="M53.4,115.0 A100,100 0 0 1 226.6,115.0" keyPoints="0;1;0" keyTimes="0;.5;1" calcMode="linear"/>
+  <circle r="22" fill="#5b8cff" opacity=".35" filter="url(#glow)"/>
+  <circle r="12" fill="#5b8cff"/>
+  <line x1="0" y1="-17" x2="0" y2="-23" transform="rotate(0)" stroke="#5b8cff" stroke-width="2" stroke-linecap="round"/>
+<line x1="0" y1="-17" x2="0" y2="-23" transform="rotate(45)" stroke="#5b8cff" stroke-width="2" stroke-linecap="round"/>
+<line x1="0" y1="-17" x2="0" y2="-23" transform="rotate(90)" stroke="#5b8cff" stroke-width="2" stroke-linecap="round"/>
+<line x1="0" y1="-17" x2="0" y2="-23" transform="rotate(135)" stroke="#5b8cff" stroke-width="2" stroke-linecap="round"/>
+<line x1="0" y1="-17" x2="0" y2="-23" transform="rotate(180)" stroke="#5b8cff" stroke-width="2" stroke-linecap="round"/>
+<line x1="0" y1="-17" x2="0" y2="-23" transform="rotate(225)" stroke="#5b8cff" stroke-width="2" stroke-linecap="round"/>
+<line x1="0" y1="-17" x2="0" y2="-23" transform="rotate(270)" stroke="#5b8cff" stroke-width="2" stroke-linecap="round"/>
+<line x1="0" y1="-17" x2="0" y2="-23" transform="rotate(315)" stroke="#5b8cff" stroke-width="2" stroke-linecap="round"/>
+</g>
+<line x1="140" y1="165" x2="140" y2="200" stroke="#8b949e" stroke-width="3"/>
+<path d="M110,200 H170" stroke="#8b949e" stroke-width="3" stroke-linecap="round"/>
+<g>
+  <animateTransform attributeName="transform" type="rotate" dur="8s" repeatCount="indefinite"
+    values="-60 140 165;60 140 165;-60 140 165" keyTimes="0;.5;1"/>
+  <rect x="102" y="160" width="76" height="8" rx="2" fill="#e6edf3"/>
+  <line x1="121" y1="160" x2="121" y2="168" stroke="#0d1117" stroke-width="1.5"/>
+  <line x1="140" y1="160" x2="140" y2="168" stroke="#0d1117" stroke-width="1.5"/>
+  <line x1="159" y1="160" x2="159" y2="168" stroke="#0d1117" stroke-width="1.5"/>
+</g>
+<circle cx="140" cy="165" r="4" fill="#0d1117" stroke="#8b949e" stroke-width="2"/>
+<line x1="270.5" y1="24" x2="270.5" y2="206" stroke="#30363d"/>
+
+<text x="300" y="44" class="mono" font-size="12" fill="#5b8cff" letter-spacing="2">PROJETO EM DESTAQUE</text>
+<text x="300" y="80" font-size="30" font-weight="700" fill="#e6edf3" letter-spacing="-.5">BlackSun</text>
+<text x="812" y="80" font-size="14" fill="#8b949e" text-anchor="end" class="mono">ver repositório →</text>
+<text x="300" y="106" font-size="15" fill="#8b949e">Rastreador solar de dois eixos. Um ESP32 com MicroPython move</text>
+<text x="300" y="129" font-size="15" fill="#8b949e">dois motores NEMA 17, lê quatro LDRs e conversa via MQTT com um</text>
+<text x="300" y="152" font-size="15" fill="#8b949e">app Flutter que roda no Android, no Windows e no navegador.</text>
+<rect x="300" y="176" width="59" height="26" rx="13" stroke="#30363d"/><text x="330" y="193.5" text-anchor="middle" class="mono" font-size="12" fill="#8b949e">ESP32</text><rect x="367.0" y="176" width="103" height="26" rx="13" stroke="#30363d"/><text x="419" y="193.5" text-anchor="middle" class="mono" font-size="12" fill="#8b949e">MicroPython</text><rect x="478.4" y="176" width="74" height="26" rx="13" stroke="#30363d"/><text x="515" y="193.5" text-anchor="middle" class="mono" font-size="12" fill="#8b949e">Flutter</text><rect x="560.2" y="176" width="52" height="26" rx="13" stroke="#30363d"/><text x="586" y="193.5" text-anchor="middle" class="mono" font-size="12" fill="#8b949e">MQTT</text><rect x="619.8000000000001" y="176" width="111" height="26" rx="13" stroke="#30363d"/><text x="675" y="193.5" text-anchor="middle" class="mono" font-size="12" fill="#8b949e">Impressão 3D</text>
+
+</g>
+</svg>
