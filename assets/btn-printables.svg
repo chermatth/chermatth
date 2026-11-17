@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="164" height="44" viewBox="0 0 164 44" fill="none">
+<style>
+text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+.edge{stroke-dasharray:28 350;animation:edge 5s linear infinite}
+@keyframes edge{to{stroke-dashoffset:-378}}
+</style>
+<rect x="0.75" y="0.75" width="162.5" height="42.5" rx="21.25" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+<rect class="edge" x="0.75" y="0.75" width="162.5" height="42.5" rx="21.25" stroke="#5b8cff" stroke-width="1.5" stroke-linecap="round"/>
+<g transform="translate(20,12)"><path transform="scale(.8333)" d="M3.678 4.8 12 9.6v9.6l8.322-4.8V4.8L12 0ZM12 19.2l-8.322-4.8V24Z" fill="#5b8cff"/></g>
+<text x="50" y="27" font-size="13" font-weight="600" fill="#e6edf3" letter-spacing="1.6">PRINTABLES</text>
+</svg>
