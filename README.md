@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Matthieu Cherbonnier: full-stack dev, maker e robótica">
+  <img src="assets/hero.svg?v=2" width="100%" alt="Matthieu Cherbonnier: full-stack dev, maker e robótica">
 </p>
 <p align="center">
   <img src="assets/boot.svg" width="100%" alt="Dev full-stack (web, mobile e back-end), maker (Arduino, ESP32 e impressão 3D), robótica, formando em DSM na Fatec Itatiba em 2026">
