@@ -16,12 +16,12 @@
   <img src="assets/footer.svg" width="100%" alt="">
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/chermatth/"><img src="assets/btn-linkedin.svg" alt="LinkedIn"></a>
-  <a href="mailto:chermatth@gmail.com"><img src="assets/btn-email.svg" alt="E-mail"></a>
-  <a href="https://cheeu.com.br/"><img src="assets/btn-cheeu.svg" alt="Cheeu"></a>
-  <a href="https://makerworld.com/@chermatth/"><img src="assets/btn-makerworld.svg" alt="MakerWorld"></a>
-  <!-- Para ativar, troque o link e apague as marcas de comentário:
-  <a href="https://www.printables.com/@SEU_USUARIO"><img src="assets/btn-printables.svg" alt="Printables"></a>
-  <a href="https://www.instagram.com/SEU_USUARIO/"><img src="assets/btn-instagram.svg" alt="Instagram"></a>
+  <a href="https://www.linkedin.com/in/chermatth/"><img src="assets/contato/linkedin.svg" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:chermatth@gmail.com"><img src="assets/contato/email.svg" alt="E-mail"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://cheeu.com.br/"><img src="assets/contato/cheeu.svg" alt="Cheeu"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://makerworld.com/@chermatth/"><img src="assets/contato/makerworld.svg" alt="MakerWorld"></a>
+  <!-- Para ativar: troque o link, apague as marcas de comentário e coloque &nbsp;&nbsp;&nbsp; depois do botão anterior.
+  <a href="https://www.printables.com/@SEU_USUARIO"><img src="assets/contato/printables.svg" alt="Printables"></a>
+  <a href="https://www.instagram.com/SEU_USUARIO/"><img src="assets/contato/instagram.svg" alt="Instagram"></a>
   -->
 </p>
