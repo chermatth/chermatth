@@ -21,6 +21,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/chermatth/">LinkedIn</a>
-  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/chermatth/"><img src="assets/btn-linkedin.svg" height="44" alt="LinkedIn"></a>
+  <a href="mailto:chermatth@gmail.com"><img src="assets/btn-email.svg" height="44" alt="E-mail"></a>
+  <!-- Para ativar, troque o link e apague as marcas de comentário:
+  <a href="https://www.printables.com/@SEU_USUARIO"><img src="assets/btn-printables.svg" height="44" alt="Printables"></a>
+  <a href="https://www.instagram.com/SEU_USUARIO/"><img src="assets/btn-instagram.svg" height="44" alt="Instagram"></a>
+  -->
 </p>
