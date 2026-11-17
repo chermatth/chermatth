@@ -23,5 +23,4 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/chermatth/">LinkedIn</a>
   &nbsp;·&nbsp;
-  <a href="mailto:chermatth@gmail.com">E-mail</a>
 </p>
